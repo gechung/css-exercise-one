@@ -1,7 +1,7 @@
 body {
   font-size: 14px;
 }
-
+/* This goes front and center */
 nav {
   background-color: yellow;
   height: 100px;
@@ -9,17 +9,17 @@ nav {
   position: fixed;
   width: 100%;
 }
-
+/* This goes on the left-hand side... */
 section {
   margin: auto;
   width: 60%;
 }
-
+/* This is how the section should be spaced */
 h1 {
   font-family: sans-serif;
   font-size: 2em;
 }
-
+/* Header 1 deets */
 .example, h3 {
   padding-top: 30px;
   text-align: center
@@ -35,3 +35,4 @@ h3 {
   margin: 10px;
   width: 100%;
 }
+/* Next header style elements */
